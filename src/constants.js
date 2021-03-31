@@ -63,3 +63,5 @@ export const tailFormItemLayout = {
     },
   },
 };
+
+export const GITHUB_HOST = "https://anikamurarka.github.io"
